@@ -14,6 +14,10 @@ And below the slideshow are clickable cards containing each city.
 -When the user clicks the ‘Edit’ button a blank form will appear where they can edit the post.
 When the user clicks the ‘Delete’ button a modal box will appear saying, “Are You Sure You Want To Delete”. And if you click thr red ‘OK’ button, a modal box will appear letting you know that the deletion was a success.
 
+[User Stories](https://git.generalassemb.ly/atl-wdi/project-vagabond/blob/master/user-stories.md)
+
+[Wireframe](https://git.generalassemb.ly/atl-wdi/project-vagabond/blob/master/wireframes.png)
+
 
 ## Technologies Used:
 
